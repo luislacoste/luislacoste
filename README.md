@@ -10,7 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://media.baamboozle.com/uploads/images/4543/1666516587_31201_gif-url.gif"  />
-[//]: # "https://gifdb.com/images/high/lofi-pixel-art-vintage-gaming-tu0ocngpovrrfsqx.gif"
+
 
 ###
 
