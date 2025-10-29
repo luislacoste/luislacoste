@@ -33,7 +33,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/luis_lacoste" target="blank"><img align="center" src="https://raw.githubusercontent.com/gist/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="luis_lacoste" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luis-lacoste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-lacoste" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis-lacoste" target="blank"><img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="luis-lacoste" height="30" width="40" /></a>
 <a href="https://instagram.com/luislacoste_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luislacoste_" height="30" width="40" /></a>
 
